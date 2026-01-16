@@ -1,0 +1,2 @@
+# Neural-Network-Logistic-Regression-for-Iris-Flower-Classification-in-Python
+Implemented a feedforward Neural Network using PyTorch to classify Iris flowers . Includes feature scaling, label encoding, manual training loop, evaluation with accuracy and confusion matrices, and visualizations with PCA. Compares performance against Logistic Regression, demonstrating multiclass classification and model comparison in Python.
